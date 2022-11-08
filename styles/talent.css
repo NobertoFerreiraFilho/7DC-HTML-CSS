@@ -1,0 +1,48 @@
+.talent-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.talent-main__tag {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: var(--vermelho);
+  width: auto;
+  margin: 0 auto 1rem;
+  background: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+  padding: 4px 12px;
+}
+
+.talent-main__title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  margin: 0 auto 20px;
+
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: var(--black);
+}
+
+.talent-main__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0 auto 4rem;
+
+  text-align: center;
+
+  /* Gray/500 */
+
+  color: #667085;
+}
+
+.talent-main__image{
+    margin: 0 10vw 4rem;
+}

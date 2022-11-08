@@ -3,11 +3,13 @@
 @import url('/styles/stats.css');
 @import url('/styles/talent.css');
 @import url('/styles/team.css');
+@import url('/styles/footer.css');
 
 :root{
     --vermelho: #8E2424;
     --black: #101828;
     --gray: #667085;
+    --light-gray: #F9FAFB;
     --white: #fff;
     --light-border: #EAECF0;
     --light-pink:rgba(196, 25, 25, 0.03);

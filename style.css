@@ -1,6 +1,9 @@
 @import url('/styles/nav.css');
+@import url('/styles/banner.css');
 
 :root{
-    --button: #8E2424;
+    --vermelho: #8E2424;
+    --black: #101828;
+    --gray: #667085;
     font-family: 'inter';
 }

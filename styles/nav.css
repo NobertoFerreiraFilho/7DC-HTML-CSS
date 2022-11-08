@@ -38,7 +38,7 @@
 }
 
 .nav-button__item--red {
-  background-color: var(--button);
+  background-color: var(--vermelho);
   border-radius: 8px;
   width: 112px;
   height: 44px;

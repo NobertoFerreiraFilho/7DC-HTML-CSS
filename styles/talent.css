@@ -43,6 +43,50 @@
   color: #667085;
 }
 
-.talent-main__image{
-    margin: 0 10vw 4rem;
+.talent-main__image {
+  margin: 0 10vw 4rem;
+}
+
+/*2nd article*/
+
+.talent-jobs {
+  margin: 0 20vw 6rem;
+}
+
+.talent-jobs__area {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 4rem 0 2rem;
+
+  color: var(--black);
+}
+
+.talent-jobs__card {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px 24px 28px;
+  gap: 24px;
+  margin: 1rem auto;
+  background: var(--white);
+  border: 1px solid var(--light-border);
+  border-radius: 16px;
+}
+
+.talent-jobs__Card-title {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: var(--black);
+}
+
+.talent-jobs__card-dados {
+  display: flex;
+}
+
+.talent-jobs__card-dados > p {
+  margin-right: 1.5rem;
+  color: var(--gray);
 }

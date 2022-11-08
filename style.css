@@ -2,6 +2,7 @@
 @import url('/styles/banner.css');
 @import url('/styles/stats.css');
 @import url('/styles/talent.css');
+@import url('/styles/team.css');
 
 :root{
     --vermelho: #8E2424;
@@ -9,5 +10,6 @@
     --gray: #667085;
     --white: #fff;
     --light-border: #EAECF0;
+    --light-pink:rgba(196, 25, 25, 0.03);
     font-family: 'inter';
 }

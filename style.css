@@ -1,0 +1,6 @@
+@import url('/styles/nav.css');
+
+:root{
+    --button: #8E2424;
+    font-family: 'inter';
+}

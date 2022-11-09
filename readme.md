@@ -10,7 +10,7 @@ Project developed as part of the Alura #7DaysOfCode challenge after formation "H
 <p align="center">
 <img src='https://img.shields.io/github/last-commit/NobertoFerreiraFilho/7DC-HTML-CSS?style=plastic'>
 <img src='https://img.shields.io/static/v1?label=Status&message=Done&color=brightgreen'>
-<img src='https://img.shields.io/github/stars/NobertoFerreiraFilho7DC-HTML-CSS'>
+<img src='https://img.shields.io/github/stars/NobertoFerreiraFilho/7DC-HTML-CSS'>
 <img src='https://img.shields.io/github/forks/NobertoFerreiraFilho/7DC-HTML-CSS'>
 <img src='https://img.shields.io/github/issues/NobertoFerreiraFilho/7DC-HTML-CSS'>
 </p>

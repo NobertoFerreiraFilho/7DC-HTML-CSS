@@ -25,20 +25,20 @@ Project developed as part of the Alura #7DaysOfCode challenge after formation "H
 <table align="center">
   <tr>
     <td>
-      <p>425 px</P>
-      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-mobile.png' width=105/>
+      <p>Mob 425px</P>
+      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-mobile.png' width=95/>
     </td>
     <td>
-      <p>768 px</P>
-      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-medium-tablet.png' width=170/>
+      <p>Tablet 768px</P>
+      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-medium-tablet.png' width=205/>
     </td> 
     <td>
-      <p>1024 px</P>
-      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-medium-notebook.png' width=170/>
+      <p>Note 1024px</P>
+      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-medium-notebook.png' width=270/>
     </td> 
     <td>
-      <p>1440 px</P>
-      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-large-desktop.png#vitrinedev' width=335/>
+      <p>Desk 1440px</P>
+      <img src='https://github.com/NobertoFerreiraFilho/7DC-HTML-CSS/blob/main/img/projeto/homepage-large-desktop.png#vitrinedev' width=365/>
     </td> 
   </tr>
 </table>

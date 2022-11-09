@@ -3,6 +3,7 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  margin: 0 1rem;
 }
 
 .talent-main__tag {
@@ -20,7 +21,7 @@
 
 .talent-main__title {
   font-weight: 600;
-  font-size: 36px;
+  font-size: 24px;
   line-height: 44px;
   margin: 0 auto 20px;
 
@@ -32,32 +33,28 @@
 
 .talent-main__text {
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 30px;
-  margin: 0 auto 4rem;
-
+  margin: 0 auto 2rem;
   text-align: center;
-
-  /* Gray/500 */
-
   color: #667085;
 }
 
 .talent-main__image {
-  margin: 0 10vw 4rem;
+  margin: 0 3vw 4rem;
 }
 
 /*2nd article*/
 
 .talent-jobs {
-  margin: 0 20vw 6rem;
+  margin: 0 5vw 3rem;
 }
 
 .talent-jobs__area {
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  margin: 4rem 0 2rem;
+  margin: 1rem 0 1rem;
 
   color: var(--black);
 }
@@ -89,4 +86,26 @@
 .talent-jobs__card-dados > p {
   margin-right: 1.5rem;
   color: var(--gray);
+}
+
+@media screen and (min-width: 768px) {
+  .talent-jobs {
+    margin: 0 20vw 6rem;
+  }
+
+  .talent-main__title {
+    font-size: 36px;
+  }
+  .talent-main__text {
+    font-size: 20px;
+  }
+  .talent-main__image {
+    margin: 0 10vw 4rem;
+  }
+
+  .talent-jobs__area {
+    margin: 2rem 0 2rem;
+  }
+
+
 }

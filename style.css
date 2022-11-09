@@ -4,6 +4,7 @@
 @import url('/styles/talent.css');
 @import url('/styles/team.css');
 @import url('/styles/footer.css');
+@import url('reset.css');
 
 :root{
     --vermelho: #8E2424;
@@ -14,4 +15,22 @@
     --light-border: #EAECF0;
     --light-pink:rgba(196, 25, 25, 0.03);
     font-family: 'inter';
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+.horizontal-line{
+    display: block;
+    width: 90vw;
+    margin: 1rem auto;
+}
+
+@media screen and (min-width:768px) {
+    .horizontal-line{
+        display: none;
+    }
 }

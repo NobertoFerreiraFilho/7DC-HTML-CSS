@@ -72,6 +72,11 @@
   border-radius: 16px;
 }
 
+.talent-jobs__card:hover{
+  background: var(--light-gray);
+  scale:1.1;
+}
+
 .talent-jobs__Card-title {
   font-weight: 500;
   font-size: 18px;
@@ -105,6 +110,20 @@
 
   .talent-jobs__area {
     margin: 2rem 0 2rem;
+  }
+
+
+}
+
+@media screen and (min-width: 1024px) {
+
+  .talent-jobs{
+    display: flex;
+    margin: 0 10vw 6rem;
+  }
+
+  .talent-jobs__wrapper-card{
+    margin: 0.5rem auto;
   }
 
 
